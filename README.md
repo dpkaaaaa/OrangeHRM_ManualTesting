@@ -1,2 +1,12 @@
 # OrangeHRM_ManualTesting
-Manual testing project for OrangeHRM
+
+## Project Overview
+This project demonstrates manual testing performed on the OrangeHRM demo application.
+
+## Modules Tested
+ **Login Module**
+ **Admin Module**
+
+## Tools Used
+- Microsoft Excel (for Test Cases & Bug Report)
+- Google Chrome / Web Browser
